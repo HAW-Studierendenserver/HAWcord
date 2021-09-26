@@ -1,14 +1,20 @@
 # HAWcord
 
-HAWcord is discord created for the HAW Studierendenserver.
+HAWcord is a discord bot created for the HAW Studierendenserver.
 
-It uses the new and soon required Discord Slash Commands.
+It uses the new and soon required Discord Slash Commands and such **needs special permissions** when invited to any guild (application.slash_commands).
 
 ## Functions
 
 - [ ] Ability to change #rules / #infos easily
+    - [ ] Add Notes
+    - [ ] Remove Notes
+    - [ ] Edit Notes
 - [ ] Formatted Announcements
 - [ ] Moderation Tools
+ - [ ] Warn
+ - [ ] Ban
+ - [ ] Kick
 
 ## Usage
 
